@@ -1,0 +1,61 @@
+body {
+	font-family: Verdana, sans-serif;
+	color: #2F3131;
+}
+
+img.topLogo{
+	float: left;
+	width: 70px;
+	height: 73px;
+	box-sizing: border-box;
+    overflow: auto;
+	background-color: #4FE88C;
+}
+
+span.topLogo{
+	overflow: auto;
+	background-color: #4FE88C;
+}
+			
+span>span.headText{
+	font-size:60px;
+	background-color: #4FE88C;
+	text-align: center;
+	font-weight: bold;
+}
+footer p{
+	font-size:12px;
+
+}
+.sprite {
+	background: url('../images/icon-sprite-26.png') no-repeat -226px -129px;
+	width: 33px;
+	height: 32px;
+}
+div.sprite:hover {
+	background: url('../images/icon-sprite-26.png') no-repeat -226px -55px;
+	width: 33px;
+	height: 32px;
+}
+
+.sprite1 {
+	background: url('../images/icon-sprite-26.png') no-repeat -456px -129px;
+	width: 32px;
+	height: 33px;
+}
+div.sprite1:hover {
+	background: url('../images/icon-sprite-26.png') no-repeat -456px -54px;
+	width: 32px;
+	height: 33px;
+}
+
+.sprite2 {
+	background: url('../images/icon-sprite-26.png') no-repeat -340px -129px;
+	width: 33px;
+	height: 33px;
+}
+div.sprite2:hover {
+	background: url('../images/icon-sprite-26.png') no-repeat -340px -54px;
+	width: 33px;
+	height: 33px;
+}
